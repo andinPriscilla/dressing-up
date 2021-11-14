@@ -1,0 +1,15 @@
+.dresses {
+    list-style-type: none;
+
+}
+.dresses li {
+    display: inline-block;
+}
+div {
+    position: relative;
+}
+#current {
+    position:absolute;
+    left:26px;
+    top:127px;
+}
